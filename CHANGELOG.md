@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/KendallDoesCoding/languages-around-the-world/compare/v0.2.1...v0.2.2) (2022-02-22)
+
+
+### Bug Fixes
+
+* leave space between spanish image and text ([2cf0cd3](https://github.com/KendallDoesCoding/languages-around-the-world/commit/2cf0cd3baf9782a083ad2ab2480638ef39b5ce40))
+
+
+
 ## [0.2.1](https://github.com/KendallDoesCoding/languages-around-the-world/compare/v0.2.0...v0.2.1) (2022-02-22)
 
 
