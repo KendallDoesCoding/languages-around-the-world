@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/KendallDoesCoding/languages-around-the-world/compare/v0.2.0...v0.2.1) (2022-02-22)
+
+
+### Bug Fixes
+
+* Update title of Spanish page ([0f34cb1](https://github.com/KendallDoesCoding/languages-around-the-world/commit/0f34cb1604f87c8abea7130017e8b9f783024b1f))
+
+
+
 # [0.2.0](https://github.com/KendallDoesCoding/languages-around-the-world/compare/v0.1.0...v0.2.0) (2022-02-22)
 
 
