@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/KendallDoesCoding/languages-around-the-world/compare/v0.2.2...v0.3.0) (2022-02-22)
+
+
+### Features
+
+* Add hindi to homepage and add hindi page to project site. ([cdbc603](https://github.com/KendallDoesCoding/languages-around-the-world/commit/cdbc6030ece6619d49dbd600e7ff27abcbad313b))
+
+
+
 ## [0.2.2](https://github.com/KendallDoesCoding/languages-around-the-world/compare/v0.2.1...v0.2.2) (2022-02-22)
 
 
